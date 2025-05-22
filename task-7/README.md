@@ -1,6 +1,6 @@
 #  OpenAI Agents SDK 
 
-Welcome to the **OpenAI Agents SDK**, a powerful Python framework for building tool-using, goal-driven, instruction-following AI agents. This SDK abstracts away the complexity of agentic reasoning and tool orchestration, letting you focus on what matters: intelligent behavior.
+**OpenAI Agents SDK**, a powerful Python framework for building tool-using, goal-driven, instruction-following AI agents. This SDK abstracts away the complexity of agentic reasoning and tool orchestration, letting you focus on what matters: intelligent behavior.
 
 ---
 
